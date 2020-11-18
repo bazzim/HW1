@@ -2,8 +2,8 @@
 Dataset: Brazilian E-Commerce Public Dataset by Olist
 Data Source: Kaggle (Only 2018 data is taken)
 Description: The dataset contains orders made at Olist Store. Olist connects small businesses from all over Brazil
-			 to channels without hassle and with a single contract. Those merchants are able to sell their products
-             through the Olist Store and ship them directly to the customers using Olist logistics partners.
+	     to channels without hassle and with a single contract. Those merchants are able to sell their products
+             through the Olist Store and ship them directly to the customers using Olist logistics partners.	   
 */
 
 /* create a database */
